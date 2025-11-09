@@ -1,8 +1,11 @@
 # Exploratory Data Analysis: WHO Life Expectancy (2000-2015)
 
 **Author:** Kush Tripathi
+
 **Matriculation Number:** 92127552
+
 **Course:** DLBDSEDAV01 – Exploratory Data Analysis and Visualization
+
 **University:** IU International University of Applied Sciences
 
 ---
@@ -13,7 +16,7 @@ This repository contains the complete exploratory data analysis (EDA) for **Task
 
 The project uses the "Life Expectancy (WHO)" dataset from Kaggle, which covers 193 countries from 2000 to 2015. The goal of this analysis is to explore the dataset's structure, clean the data, and use statistical and visual techniques to uncover the key factors correlated with life expectancy.
 
-The full written report (`firstEda.docx`), which details the findings and methodology, was submitted separately. This repository provides the technical Jupyter notebook and the raw data used to generate those findings.
+The full written report, which details the findings and methodology, was submitted separately. This repository provides the technical Jupyter notebook and the raw data used to generate those findings.
 
 ---
 
@@ -43,9 +46,8 @@ The analysis relies on the following core Python libraries:
 1.  **Clone or Download the Repository:**
     * Clone this repository to your local machine:
         ```sh
-        git clone [https://https://github.com/KushTrip/Explorative-Data-Analysis-and-Visualisation.git](https://github.com/KushTrip/Explorative-Data-Analysis-and-Visualisation).git)
+        git clone [https:github.com/KushTrip/Explorative-Data-Analysis-and-Visualisation.git](https://github.com/KushTrip/Explorative-Data-Analysis-and-Visualisation.git)
         ```
-    * (Replace `YourRepositoryName` with your actual repository name)
     * OR download the ZIP file from GitHub and extract it.
 
 2.  **Install Dependencies:**
