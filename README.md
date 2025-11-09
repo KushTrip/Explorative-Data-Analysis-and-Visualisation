@@ -43,7 +43,7 @@ The analysis relies on the following core Python libraries:
 1.  **Clone or Download the Repository:**
     * Clone this repository to your local machine:
         ```sh
-        git clone [https://https://github.com/KushTrip/Explorative-Data-Analysis-and-Visualisation.git](https://[github.com/KushTrip/YourRepositoryName](https://github.com/KushTrip/Explorative-Data-Analysis-and-Visualisation).git)
+        git clone [https://https://github.com/KushTrip/Explorative-Data-Analysis-and-Visualisation.git](https://github.com/KushTrip/Explorative-Data-Analysis-and-Visualisation).git)
         ```
     * (Replace `YourRepositoryName` with your actual repository name)
     * OR download the ZIP file from GitHub and extract it.
