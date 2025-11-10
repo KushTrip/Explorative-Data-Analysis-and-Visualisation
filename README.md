@@ -37,7 +37,6 @@ You will need a Python environment capable of running Jupyter Notebooks (such as
 
 The analysis relies on the following core Python libraries:
 * `pandas`
-* `numpy`
 * `matplotlib`
 * `seaborn`
 
