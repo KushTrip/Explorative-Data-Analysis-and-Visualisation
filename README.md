@@ -32,27 +32,26 @@ The full written report, which details the findings and methodology, was submitt
 To review the analysis and reproduce the results, please follow these steps:
 
 ### Requirements
-
-You will need a Python environment capable of running Jupyter Notebooks (such as Anaconda, VS Code with the Jupyter extension, or Google Colab).
-
 The analysis relies on the following core Python libraries:
 * `pandas`
 * `matplotlib`
 * `seaborn`
+You will need a Python environment capable of running Jupyter Notebooks (such as Anaconda, VS Code with the Jupyter extension, or Google Colab).
+The Fastest way to run this program is to open the `life_expectancy_data.ipynb` in google collab and load the csv dataset in there.
 
-### Instructions
+### Instructions for running locally
 
 1.  **Clone or Download the Repository:**
     * Clone this repository to your local machine:
-        ```sh
-        git clone [https:github.com/KushTrip/Explorative-Data-Analysis-and-Visualisation.git](https://github.com/KushTrip/Explorative-Data-Analysis-and-Visualisation.git)
+        ```
+        git clone https://github.com/KushTrip/Explorative-Data-Analysis-and-Visualisation.git
         ```
     * OR download the ZIP file from GitHub and extract it.
 
 2.  **Install Dependencies:**
     If you do not have the required libraries installed, you can install them via pip in your terminal:
-    ```sh
-    pip install pandas numpy matplotlib seaborn
+    ```
+    pip install pandas matplotlib seaborn
     ```
 
 3.  **Launch Jupyter Notebook:**
