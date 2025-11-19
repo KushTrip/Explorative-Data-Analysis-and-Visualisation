@@ -36,6 +36,7 @@ The analysis relies on the following core Python libraries:
 * `pandas`
 * `matplotlib`
 * `seaborn`
+
 You will need a Python environment capable of running Jupyter Notebooks (such as Anaconda, VS Code with the Jupyter extension, or Google Colab).
 The Fastest way to run this program is to open the `life_expectancy_data.ipynb` in google collab and load the csv dataset in there.
 
